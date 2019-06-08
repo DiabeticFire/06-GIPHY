@@ -1,0 +1,13 @@
+body {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+}
+
+#selector,
+#display {
+  border: 3px solid red;
+}
+
+#add {
+  border: 3px solid green;
+}
